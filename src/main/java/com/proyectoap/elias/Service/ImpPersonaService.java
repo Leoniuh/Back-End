@@ -1,14 +1,14 @@
-package com.proyecto.elias.Services;
+package com.proyectoap.elias.Service;
 
-import com.proyecto.elias.Entity.Persona;
-import com.proyecto.elias.Interface.IPersonaService;
-import com.proyecto.elias.Repository.IPersonaRepository;
+import com.proyectoap.elias.Entity.Persona;
+import com.proyectoap.elias.Interface.IPersonaService;
+import com.proyectoap.elias.Repository.IPersonaRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-@Service
 
+@Service
 public class ImpPersonaService implements IPersonaService{
     @Autowired IPersonaRepository ipersonaRepository;
 

@@ -1,19 +1,19 @@
-package com.proyecto.elias.Interface;
+package com.proyectoap.elias.Interface;
 
-import com.proyecto.elias.Entity.Persona;
+import com.proyectoap.elias.Entity.Persona;
 import java.util.List;
 
+
 public interface IPersonaService {
-    //Traer una lista de persona
+   //Traer lista de personas
     public List<Persona> getPersona();
     
-    //Guardar un objeto de tipo persona
+    //Guardar objeto tipo persona
     public void savePersona(Persona persona);
     
-    //Eliminar un objeto buscandolo por ID
+    //Eliminar objeto tipo persona
     public void deletePersona(Long id);
     
-    //Buscar personas mediante ID
+    //Buscr personas mediante id
     public Persona findPersona(Long id);
-    
 }
