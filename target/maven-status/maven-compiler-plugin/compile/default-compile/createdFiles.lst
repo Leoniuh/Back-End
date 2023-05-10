@@ -14,8 +14,10 @@ com\proyectoap\elias\Controller\CExperiencia.class
 com\proyectoap\elias\Security\Enums\RolNombre.class
 com\proyectoap\elias\Security\Entity\Usuario.class
 com\proyectoap\elias\Repository\RExperiencia.class
+com\proyectoap\elias\Entity\Proyecto.class
 com\proyectoap\elias\Security\Dto\LoginUsuario.class
 com\proyectoap\elias\Security\Jwt\JwtTokenFilter.class
+com\proyectoap\elias\Controller\CProyecto.class
 com\proyectoap\elias\EliasApplication.class
 com\proyectoap\elias\Controller\CHys.class
 com\proyectoap\elias\Dto\DtoPersona.class
@@ -26,11 +28,14 @@ com\proyectoap\elias\Security\Jwt\JwtProvider.class
 com\proyectoap\elias\Security\Service\UsuarioService.class
 com\proyectoap\elias\Repository\REducacion.class
 com\proyectoap\elias\Repository\IPersonaRepository.class
+com\proyectoap\elias\Repository\RProyecto.class
 com\proyectoap\elias\Service\SExperiencia.class
 com\proyectoap\elias\Dto\DtoHys.class
 com\proyectoap\elias\Security\Service\RolService.class
+com\proyectoap\elias\Dto\DtoProyecto.class
 com\proyectoap\elias\Entity\Experiencia.class
 com\proyectoap\elias\Security\Controller\AuthController.class
+com\proyectoap\elias\Service\SProyecto.class
 com\proyectoap\elias\Entity\Educacion.class
 com\proyectoap\elias\Security\Entity\Rol.class
 com\proyectoap\elias\Security\MainSecurity.class

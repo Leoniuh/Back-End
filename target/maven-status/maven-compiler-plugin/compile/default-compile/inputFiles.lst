@@ -1,4 +1,5 @@
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Service\SExperiencia.java
+C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Service\SProyecto.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Controller\CExperiencia.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\Service\RolService.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\Service\UsuarioService.java
@@ -10,10 +11,12 @@ C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\ma
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Controller\CHys.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\Service\UserDetailsImp.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Repository\RExperiencia.java
+C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Controller\CProyecto.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Controller\PersonaController.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\Entity\Usuario.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Dto\DtoEducacion.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Repository\RHys.java
+C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Entity\Proyecto.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Service\ImpPersonaService.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Entity\Persona.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\EliasApplication.java
@@ -27,8 +30,10 @@ C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\ma
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\Controller\AuthController.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\Jwt\JwtEntryPoint.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Service\SHys.java
+C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Dto\DtoProyecto.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Entity\Hys.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Controller\CEducacion.java
+C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Repository\RProyecto.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\MainSecurity.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Repository\IPersonaRepository.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Entity\Educacion.java
