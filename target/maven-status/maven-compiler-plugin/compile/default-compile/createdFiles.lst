@@ -1,4 +1,3 @@
-com\proyectoap\elias\Interface\IPersonaService.class
 com\proyectoap\elias\Dto\DtoEducacion.class
 com\proyectoap\elias\Security\Dto\JwtDto.class
 com\proyectoap\elias\Controller\PersonaController.class
@@ -19,6 +18,7 @@ com\proyectoap\elias\Security\Dto\LoginUsuario.class
 com\proyectoap\elias\Security\Jwt\JwtTokenFilter.class
 com\proyectoap\elias\EliasApplication.class
 com\proyectoap\elias\Controller\CHys.class
+com\proyectoap\elias\Dto\DtoPersona.class
 com\proyectoap\elias\Repository\RHys.class
 com\proyectoap\elias\Entity\Persona.class
 com\proyectoap\elias\Service\SEducacion.class

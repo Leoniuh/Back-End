@@ -2,6 +2,7 @@ C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\ma
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Controller\CExperiencia.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\Service\RolService.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\Service\UsuarioService.java
+C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Dto\DtoPersona.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\Jwt\JwtTokenFilter.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\Repository\iRolRepository.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Repository\REducacion.java
@@ -29,7 +30,6 @@ C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\ma
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Entity\Hys.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Controller\CEducacion.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\MainSecurity.java
-C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Interface\IPersonaService.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Repository\IPersonaRepository.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Entity\Educacion.java
 C:\Users\Leon.Leoniuh\Desktop\AP2\Proyecto AP\Pagina web\PortfolioBackEnd\src\main\java\com\proyectoap\elias\Security\Dto\NuevoUsuario.java
