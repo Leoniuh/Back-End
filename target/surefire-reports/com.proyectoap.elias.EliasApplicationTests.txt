@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.proyectoap.elias.EliasApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 97.336 s - in com.proyectoap.elias.EliasApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 101.594 s - in com.proyectoap.elias.EliasApplicationTests
